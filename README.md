@@ -6,8 +6,8 @@ Zaprojektować i wykonać obiektowy system zarządzania sklepem. Podstawowe zał
 
 
 1.	System powinien posiadać obiekty podstawowe: 
-/•	Produkt (charakteryzuje pojedynczy produkt w sklepie)
-/•	Kategoria (przechowuje produkty z określonej kategorii, np. napoje, kosmetyki, zabawki, itp.), KATALOG
+•	Produkt (charakteryzuje pojedynczy produkt w sklepie)
+/ •	Kategoria (przechowuje produkty z określonej kategorii, np. napoje, kosmetyki, zabawki, itp.), KATALOG
 /•	Asortyment (przechowuje asortyment sklepu z podziałem na kategorie)
 /•	Zamówienie (opisuje pojedyncze zamówienie użytkownika)
 /•	Rachunek (opisuje rachunek za zamówienie: faktura lub paragon)
