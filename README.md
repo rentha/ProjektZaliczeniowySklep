@@ -1,5 +1,7 @@
 # ProjektZaliczeniowySklep
 
+Author: Renata Matuszczak
+
 Zadanie 3
 
 Zaprojektować i wykonać obiektowy system zarządzania sklepem. Podstawowe założenia podano poniżej:
