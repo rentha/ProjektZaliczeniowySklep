@@ -18,7 +18,7 @@ Zaprojektować i wykonać obiektowy system zarządzania sklepem. Podstawowe zał
 2)	Usuwanie obiektu/kolekcji obiektów
 3)	Wyświetlanie obiektu/kolekcji obiektów
 4)	Wyszukiwanie/Filtrowanie obiektu/kolekcji obiektów
-4)	Funkcje dodatkowe programu (na ocenę powyżej 4.0)
-1.	Zaprojektować i zaimplementować interfejsy. Całość systemu oprzeć na interfejsach
-2.	Wykonać zapis i odczyt do pliku/plików (utrwalanie danych)
-3.	Wykorzystać mechanizmy „Dependency Injection”, np. Singleton, Fabryka, Dekorator (np. dekoratory przy wprowadzeniu operatorów and/or przy wyszukiwaniu)
+5.	Funkcje dodatkowe programu (na ocenę powyżej 4.0)
+1)	Zaprojektować i zaimplementować interfejsy. Całość systemu oprzeć na interfejsach
+2)	Wykonać zapis i odczyt do pliku/plików (utrwalanie danych)
+3)	Wykorzystać mechanizmy „Dependency Injection”, np. Singleton, Fabryka, Dekorator (np. dekoratory przy wprowadzeniu operatorów and/or przy wyszukiwaniu)
