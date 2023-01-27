@@ -5,13 +5,13 @@ Zadanie 3
 Zaprojektować i wykonać obiektowy system zarządzania sklepem. Podstawowe założenia podano poniżej:
 
 
-1.	System powinien posiadać obiekty podstawowe: 
-•	Produkt (charakteryzuje pojedynczy produkt w sklepie)
-/ •	Kategoria (przechowuje produkty z określonej kategorii, np. napoje, kosmetyki, zabawki, itp.), KATALOG
-/•	Asortyment (przechowuje asortyment sklepu z podziałem na kategorie)
-/•	Zamówienie (opisuje pojedyncze zamówienie użytkownika)
-/•	Rachunek (opisuje rachunek za zamówienie: faktura lub paragon)
-/•	Aplikacja (główny obiekt zapewniający interakcję z użytkownikiem)
+1.	System powinien posiadać obiekty podstawowe: \
+•	Produkt (charakteryzuje pojedynczy produkt w sklepie) \
+•	Kategoria (przechowuje produkty z określonej kategorii, np. napoje, kosmetyki, zabawki, itp.) \
+•	Asortyment (przechowuje asortyment sklepu z podziałem na kategorie) \
+•	Zamówienie (opisuje pojedyncze zamówienie użytkownika) \
+•	Rachunek (opisuje rachunek za zamówienie: faktura lub paragon) \
+•	Aplikacja (główny obiekt zapewniający interakcję z użytkownikiem) \
 2.	Dziedziczenie: zaprojektować obiekty potomne od obiektu typu Produkt będące typami produktów, np. ProduktSpożywczy, ProduktMarkowy, ProduktElectro, itp. Można też zaprojektować obiekty potomne Faktura i Paragon od obiektu Rachunek.
 3.	Umożliwić podstawowe operacje na Produkcie, Kategoriach, Asortymencie, Zamówieniach i Rachunkach. Do podstawowych operacji zaliczamy:
 1)	Dodawanie obiektu/kolekcji obiektów
